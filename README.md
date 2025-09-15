@@ -27,7 +27,7 @@
 ---
 
 ### 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-lima-696449283/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-lima-pcd-696449283)  
 ✉️ **Email**: sidneylima195@gmail.com  
 
 ---
