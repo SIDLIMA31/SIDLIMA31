@@ -20,12 +20,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidney-lima&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidney-lima&layout=compact&theme=tokyonight)  
-
----
-
 ### 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidney-lima-pcd-696449283)  
 ✉️ **Email**: sidneylima195@gmail.com  
