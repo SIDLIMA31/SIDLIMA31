@@ -7,7 +7,7 @@
 ### 🚀 Sobre mim
 - 🔎 Apaixonado por **qualidade de software** e melhoria contínua  
 - 🌱 Estudando **ISTQB Foundation** e aprofundando em **testes manuais e ágeis**  
-- 📂 Desenvolvendo um portfólio de QA com projetos práticos ([clique aqui](https://github.com/sidney-lima))  
+- 📂 Desenvolvendo um portfólio de QA com projetos práticos ([clique aqui](https://github.com/SIDLIMA31?tab=repositories))  
 - 🎯 Objetivo: atuar como **QA Analyst / Software Tester** em equipes ágeis  
 
 ---
